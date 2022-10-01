@@ -15,6 +15,13 @@ Robson Franco <br>
 - Css
 -Visual Studio Code
 -Linguagens de programação:
+-Node
+-bcrypt
+-cookie-parser
+-ejs
+-express
+-method-override
+-sequelize
 
 
 
