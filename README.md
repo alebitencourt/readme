@@ -18,7 +18,7 @@ Robson Franco <br>
 
 
 
-Descrição do projeto:
+Descrição do projeto: <br>
 Sobre o Projeto
 
 Devs Beer É um e-commerce voltado para o comércio de cervejaria , o projeto foi desenvolvido para uso do consumidor final, uma vez que ele possa escolher seus produtos definir seu orçamento e até mesmo solicitar entrega em seu endereço após término da compra.
