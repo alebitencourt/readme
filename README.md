@@ -4,6 +4,19 @@ Projeto Integrador <br> Devs Beer
 
 ![Home](https://user-images.githubusercontent.com/104717975/193589775-44733fc5-5785-4e34-856b-a52969a43a72.PNG)
 
+Para Instalar:
+É Necessário ter:
+
+Node: <br>
+https://nodejs.org/en/  <br>
+
+Npm: <br>
+https://www.npmjs.com/ <br>
+
+1. Faça um clone do repositório <br>
+$ git clone https://github.com/RobsonFranco89/Grupo-2.git <br>
+2. Instale a dependência <br>
+$ npm install <br>
 
 * Tecnologias utilizadas 
 - Java <br>
