@@ -13,19 +13,19 @@ Matheus Souza de Almeida <br>
 Robson Franco <br>
 
 * Tecnologias utilizadas 
-- Java 
-- MySQL 
-- Html
-- Css
--Visual Studio Code
--Linguagens de programação:
--Node
--bcrypt
--cookie-parser
--ejs
--express
--method-override
--sequelize
+- Java <br>
+- MySQL <br>
+- Html <br>
+- Css <br>
+-Visual Studio Code <br>
+-Linguagens de programação <br>
+-Node <br>
+-bcrypt <br>
+-cookie-parser <br>
+-ejs <br>
+-express <br>
+-method-override <br>
+-sequelize <br>
 
 
 
