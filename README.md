@@ -45,11 +45,11 @@ Senha<br>
 
 As senhas são armazenadas em processo de criptografia dando toda segurança necessária para a preservação dos dados pessoais de cada cliente cadastrado.
 
-*Login:
+Login:
 O usúario efetuará o Login por meio do usuário e senha, que serão definidos no ato do cadastro.
 
 
-*Preview
+Preview
 todo o projeto foi planejado responsivamente pra dar uma total flexibilidade em todos os ambientes onde os usuários estiverem logados , tanto para Celulares , Tablets e Desk Top, Abaixo uma breve visão de como se comporta a tela em dispositivos diferentes.
 
 Desk top
@@ -64,7 +64,7 @@ Orientadores: <br>
 
 
 
-*Desenvolvedores: <br>
+Desenvolvedores: <br>
 
 | [<img src="https://avatars.githubusercontent.com/u/105663173?v=4" width=115><br><sub>Carolina Nunes</sub>](https://github.com/CarolZNS) |  [<img src="https://avatars.githubusercontent.com/u/105526228?v=4" width=115><br><sub>Robson Franco</sub>](https://github.com/RobsonFranco89) |  [<img src="https://avatars.githubusercontent.com/u/104717975?v=4" width=115><br><sub>Alenildo Bitencourt</sub>](https://github.com/alebitencourt) |
 | :---: | :---: | :---: |
