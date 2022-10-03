@@ -5,13 +5,6 @@ Projeto Integrador <br> Devs Beer
 ![Home](https://user-images.githubusercontent.com/104717975/193589775-44733fc5-5785-4e34-856b-a52969a43a72.PNG)
 
 
-*Desenvolvedores: <br>
-Alenildo Bitencourt <br>
-Carolina Nunes <br>
-Eloi Domingos <br>
-Matheus Souza de Almeida <br>
-Robson Franco <br>
-
 * Tecnologias utilizadas 
 - Java <br>
 - MySQL <br>
@@ -70,6 +63,11 @@ Iago Nunes <br>
 Victor Pina Bergamini
 
 
+*Desenvolvedores: <br>
+
+| [<img src="https://avatars.githubusercontent.com/u/105663173?v=4" width=115><br><sub>Carolina Nunes</sub>](https://github.com/CarolZNS) |  [<img src="https://avatars.githubusercontent.com/u/105526228?v=4" width=115><br><sub>Robson Franco</sub>](https://github.com/RobsonFranco89) |  [<img src="https://avatars.githubusercontent.com/u/104717975?v=4" width=115><br><sub>Alenildo Bitencourt</sub>](https://github.com/alebitencourt) |
+| :---: | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/88353249?v=4" width=115><br><sub>Eloi Domingos</sub>](https://github.com/EloiDomingos) |  [<img src="https://avatars.githubusercontent.com/u/79412540?v=4" width=115><br><sub>Matheus Souza</sub>](https://github.com/Teteusouzaof) |  
 
 
 
