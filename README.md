@@ -10,15 +10,15 @@ Projeto Integrador <br> Devs Beer
 - MySQL <br>
 - Html <br>
 - Css <br>
--Visual Studio Code <br>
--Linguagens de programação <br>
--Node <br>
--bcrypt <br>
--cookie-parser <br>
--ejs <br>
--express <br>
--method-override <br>
--sequelize <br>
+- Visual Studio Code <br>
+- Linguagens de programação <br>
+- Node <br>
+- bcrypt <br>
+- cookie-parser <br>
+- ejs <br>
+- express <br>
+- method-override <br>
+- sequelize <br>
 
 
 
