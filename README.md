@@ -59,8 +59,9 @@ Mobile <br>
 ![mobile](https://user-images.githubusercontent.com/104717975/193378702-e6c270a7-0ac7-4b6c-b926-bfbef519ea17.PNG)
 
 Orientadores: <br>
-Iago Nunes <br>
-Victor Pina Bergamini
+| [<img src="https://avatars.githubusercontent.com/u/68913110?v=4" width=115><br><sub>Iago Nunes</sub>](https://github.com/iagoln) |  [<img src="https://avatars.githubusercontent.com/u/50021378?v=4" width=115><br><sub>Victor Pina Bergamini</sub>](https://github.com/vbergadev) |
+| :---: | :---: | 
+
 
 
 *Desenvolvedores: <br>
