@@ -19,7 +19,7 @@ git clone https://github.com/RobsonFranco89/Grupo-2.git <br>
 npm install <br>
 
 * Tecnologias utilizadas 
-- Java <br>
+- Javascript <br>
 - MySQL <br>
 - Html <br>
 - Css <br>
