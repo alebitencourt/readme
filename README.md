@@ -14,9 +14,9 @@ Npm: <br>
 https://www.npmjs.com/ <br>
 
 1. Faça um clone do repositório <br>
-$ git clone https://github.com/RobsonFranco89/Grupo-2.git <br>
+git clone https://github.com/RobsonFranco89/Grupo-2.git <br>
 2. Instale a dependência <br>
-$ npm install <br>
+npm install <br>
 
 * Tecnologias utilizadas 
 - Java <br>
