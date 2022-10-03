@@ -1,5 +1,5 @@
-# readme
-*Titulo
+Readme 
+Titulo
 Projeto Integrador - Devs Beer  
 
 ![Home](https://user-images.githubusercontent.com/104717975/193589775-44733fc5-5785-4e34-856b-a52969a43a72.PNG)
@@ -68,6 +68,8 @@ Mobile <br>
 Orientadores: <br>
 Iago Nunes <br>
 Victor Pina Bergamini
+
+
 
 
 
