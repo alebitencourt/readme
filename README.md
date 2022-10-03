@@ -1,6 +1,6 @@
-Readme 
-Titulo
-Projeto Integrador - Devs Beer  
+Readme <br>
+
+Projeto Integrador <br> Devs Beer  
 
 ![Home](https://user-images.githubusercontent.com/104717975/193589775-44733fc5-5785-4e34-856b-a52969a43a72.PNG)
 
@@ -29,12 +29,12 @@ Robson Franco <br>
 
 
 
-*Descrição do projeto: <br> <br>
+Descrição do projeto: <br> <br>
 Sobre o Projeto
 
 Devs Beer É um e-commerce voltado para o comércio de cervejaria , o projeto foi desenvolvido para uso do consumidor final, uma vez que ele possa escolher seus produtos definir seu orçamento e até mesmo solicitar entrega em seu endereço após término da compra.
 
-*Produtos:
+Produtos: 
 O cliente encontrará produtos com imagens, descrição, valor e uma opção para adicionar o item desejado ao carrinho.
 
 *O carrinho: os itens adicionados serão contabilizados e para finalização da compra coletaremos dados pessoais, como: nome, sobrenome, CPF, data de nascimento, celular, e-mail para contato e endereço para entrega antes de finalizar a compra.
@@ -68,6 +68,7 @@ Mobile <br>
 Orientadores: <br>
 Iago Nunes <br>
 Victor Pina Bergamini
+
 
 
 
