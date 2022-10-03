@@ -1,7 +1,10 @@
 # readme
 Projeto Integrador - Devs Beer  
 
-Devs Time <br>
+![Home](https://user-images.githubusercontent.com/104717975/193589775-44733fc5-5785-4e34-856b-a52969a43a72.PNG)
+
+
+Desenvolvedores: <br>
 Alenildo Bitencourt <br>
 Carolina Nunes <br>
 Eloi Domingos <br>
